@@ -34,6 +34,12 @@ We are currently planning to include the following corpora:
 * Korean
   - [x] Namu News
   - [ ] Namu Wiki
+  - [x] Wikipedia (March 2023 dump)
+  - [ ] KAIST? (http://semanticweb.kaist.ac.kr/home/index.php/KAIST_Corpus)
+* German
+  - [ ] Transcripts of the Federal German Bundestag
+  - [ ] Court decisions and other legal documents
+  - [ ] Wikipedia?
 * Mixed
   - [ ] Wikis from Wikiapiary
   - [ ] Wikitionary?
