@@ -13,6 +13,9 @@ Simply the name of the data source, e.g. Wikipedia, Syosetu ni Narou, Twitter, u
 **URL of source?**
 Where the data can be found; multiple links are acceptable if necessary.
 
+**Source language?**
+Language the data is in, e.g. English, Japanese, Spanish, etc. If it's code, you should specify the programming language (C, Java, etc.). If it's a known mixture of languages, list all of them and how they're separated, if possible. If it's an unknown mix, just put "mixed."
+
 **Data format?**
 The format the data is already in, e.g. Wikitext, HTML, markdown, PDF.
 
@@ -20,4 +23,4 @@ The format the data is already in, e.g. Wikitext, HTML, markdown, PDF.
 Whether it's appropriate to convert the data to a plain text or markdown. Usually "yes," but if you're submitting a dataset of code, it would be inappropriate to strip HTML tags.
 
 **Notes for scraping?**
-Any notes or useful information for the scraping process, if applicable, e.g. "there's an API that returns a list of pages at /api/v1/list" or "the site heavily rate limits, so you may need to use multiple IPs." If the data is available as a convenient archive or download already, you'd mention that here
+Any notes or useful information for the scraping process, if applicable, e.g. "there's an API that returns a list of pages at /api/v1/list" or "the site heavily rate limits, so you may need to use multiple IPs." If the data is available as a convenient archive or download already, you'd mention that here.
