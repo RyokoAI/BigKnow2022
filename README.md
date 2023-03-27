@@ -6,6 +6,16 @@ models. Its contents are primarily derived from various websites.
 **We are currently seeking contributors to assist in dataset collection and
 filtering.**
 
+## Rationale
+
+Existing large-scale datasets such as the Pile or vanilla Common Crawl all
+have notable downsides:
+
+* Insufficient attention given to non-English or non-European languages.
+  In particular, CJK languages tend to be neglected the most.
+
+* Information that is now two or more years out of date.
+
 ## Sources
 
 We are currently planning to include the following corpora:
